@@ -51,7 +51,7 @@ Javascript
 
 **Support and contact details**  <br>
 hillary.onyuna@student.moringaschool.com
-michael.njung'e@student.moringaschool.com
+michael.njunge@student.moringaschool.com
 deborah.richard@student.moringaschool.com
 eric.kithinji@student.moringaschool.com
 <br>
