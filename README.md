@@ -1,10 +1,10 @@
 # tours-travel <br>
 **DESCRIPTION** <br>
-This is a group project where we are working on a project about a tour company where you can book online.
-{TOURS AND TRAVELS AGENCY}
-{Landing Page}, {September 2023}
-By {MIKE-NJUGE,HILLARY-ONYUNA,DEBORAH-TIPIYION,ERIC-KITHINJI}
-Description
+This is a group project where we are working on a project about a tour company where you can book online.<br>
+{TOURS AND TRAVELS AGENCY}<br>
+{Landing Page}, {September 2023}<br>
+By {MIKE-NJUGE,HILLARY-ONYUNA,DEBORAH-TIPIYION,ERIC-KITHINJI}<br>
+**Description**<br>
 This is the landing page for tours and travel. The project is to test our understanding and skill in HTML and CSS up to now. We are to design a page of a tour agency  that deals with tour and travels.<br>
 
 
@@ -17,23 +17,23 @@ GitHub Account
 Browser <br>
 **Setup/Installation Requirements** <br>
 
-This is how to set up and run this code on your computer:
+This is how to set up and run this code on your computer:<br>
 
-On GitHub.com, navigate to the main page of the repository.
-Above the list of files, click Code.
-Copy the URL for the repository.
-Open Git Bash.
-Change the current working directory to the location where you want the cloned directory.
-Type git clone, then paste the copied URL of the repository. git clone https://github.com/USERNAME/REPOSITORYNAME
-Press Enter to create your local clone.
-$ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
-Cloning into chosen-directory...
+On GitHub.com, navigate to the main page of the repository.<br>
+Above the list of files, click Code.<br>
+Copy the URL for the repository.<br>
+Open Git Bash.<br>
+Change the current working directory to the location where you want the cloned directory.<br>
+Type git clone, then paste the copied URL of the repository. git clone https://github.com/USERNAME/REPOSITORYNAME<br>
+Press Enter to create your local clone.<br>
+$ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY<br>
+Cloning into chosen-directory...<br>
 
-remote: Counting objects: 10, done.
+remote: Counting objects: 10, done.<br>
 
-remote: Compressing objects: 100% (8/8), done.
+remote: Compressing objects: 100% (8/8), done.<br>
 
-remove: Total 10 (delta 1), reused 10 (delta 1)
+remove: Total 10 (delta 1), reused 10 (delta 1)<br>
 
 Unpacking objects: 100% (10/10), done.<br>
 
@@ -44,20 +44,20 @@ NB: The repository link is:https://github.com/tours-project/tours-travel.git<br>
 This current version has no know bugs at the moment<br>
 
 **Technologies Used**<br>
-HTML5
-CSS3
-Javascript
+HTML5<br>
+CSS3<br>
+Javascript <br>
 <br>
 
 **Support and contact details**  <br>
-hillary.onyuna@student.moringaschool.com
-michael.njunge@student.moringaschool.com
-deborah.richard@student.moringaschool.com
-eric.kithinji@student.moringaschool.com
+hillary.onyuna@student.moringaschool.com <br>
+michael.njung'e@student.moringaschool.com <br>
+deborah.richard@student.moringaschool.com<br>
+eric.kithinji@student.moringaschool.com <br>
 <br>
 
 **License**<br>
-This software is published under the MIT License.
+This software is published under the **MIT License**.<br>
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
@@ -77,5 +77,5 @@ NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
 LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
 OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
 WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-**Copyright (c) {2023} {MIKE-NJUGE,HILLARY-ONYUNA,DEBORAH-TIPIYION,ERIC-KITHINJI}**
+****Copyright (c) {2023}** {MIKE-NJUGE,HILLARY-ONYUNA,DEBORAH-TIPIYION,ERIC-KITHINJI}**
 
