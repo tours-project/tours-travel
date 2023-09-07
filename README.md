@@ -1,41 +1,35 @@
-# tours-travel <br>
-**DESCRIPTION** <br>
-This is a group project where we are working on a project about a tour company where you can book online.<br>
-{TOURS AND TRAVELS AGENCY}<br>
-{Landing Page}, {September 2023}<br>
-By {MIKE-NJUGE,HILLARY-ONYUNA,DEBORAH-TIPIYION,ERIC-KITHINJI}<br>
+# TOURS AND TRAVEL <br>
+
+**{Landing Page}, {September 2023}<br>**
+**By {MIKE-NJUGE,HILLARY-ONYUNA,DEBORAH-TIPIYION,ERIC-KITHINJI**}<br>
 **Description**<br>
-This is the landing page for tours and travel. The project is to test our understanding and skill in HTML and CSS up to now. We are to design a page of a tour agency  that deals with tour and travels.<br>
+This is the landing page for tours and travel.This is a group project where we are working on a project about a tour company where you can book online for tours. The project is to test our understanding and skill in HTML and CSS up to now. We are to design a page of a tour agency  that deals with tour and travels.<br>
 
 
 **Pre-requisites**<br>
-Linux/Windows/MacOS
-At least 2GB RAM
-At least 3GB ROM
-Visual Studio Code
-GitHub Account
-Browser <br>
+1.Linux/Windows/MacOS
+2.At least 2GB RAM
+3.At least 3GB ROM
+4.Visual Studio Code
+5.GitHub Account
+6.Browser <br>
 **Setup/Installation Requirements** <br>
-
 This is how to set up and run this code on your computer:<br>
 
-On GitHub.com, navigate to the main page of the repository.<br>
-Above the list of files, click Code.<br>
-Copy the URL for the repository.<br>
-Open Git Bash.<br>
-Change the current working directory to the location where you want the cloned directory.<br>
-Type git clone, then paste the copied URL of the repository. git clone https://github.com/USERNAME/REPOSITORYNAME<br>
-Press Enter to create your local clone.<br>
-$ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY<br>
-Cloning into chosen-directory...<br>
+1.On GitHub.com, navigate to the main page of the repository.<br>
+2.Above the list of files, click Code.<br>
+3.Copy the URL for the repository.<br>
+4.Open Git Bash.<br>
+5.Change the current working directory to the location where you want the cloned directory.<br>
+6.Type git clone, then paste the copied URL of the repository. git clone https://github.com/USERNAME/REPOSITORYNAME<br>
+7.Press Enter to create your local clone.<br>
 
-remote: Counting objects: 10, done.<br>
-
-remote: Compressing objects: 100% (8/8), done.<br>
-
-remove: Total 10 (delta 1), reused 10 (delta 1)<br>
-
-Unpacking objects: 100% (10/10), done.<br>
+-$ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY<br>
+-Cloning into chosen-directory...<br>
+-remote: Counting objects: 10, done.<br>
+-remote: Compressing objects: 100% (8/8), done.<br>
+-remove: Total 10 (delta 1), reused 10 (delta 1)<br>
+-Unpacking objects: 100% (10/10), done.<br>
 
 **Enjoy!** <br>
 NB: The repository link is:https://github.com/tours-project/tours-travel.git<br>
@@ -44,16 +38,16 @@ NB: The repository link is:https://github.com/tours-project/tours-travel.git<br>
 This current version has no know bugs at the moment<br>
 
 **Technologies Used**<br>
-HTML5<br>
-CSS3<br>
-Javascript <br>
+1.HTML5<br>
+2.CSS3<br>
+3.Javascript <br>
 <br>
 
 **Support and contact details**  <br>
-hillary.onyuna@student.moringaschool.com <br>
-michael.njung'e@student.moringaschool.com <br>
-deborah.richard@student.moringaschool.com<br>
-eric.kithinji@student.moringaschool.com <br>
+1.hillary.onyuna@student.moringaschool.com <br>
+2.michael.njung'e@student.moringaschool.com <br>
+3.deborah.richard@student.moringaschool.com<br>
+4.eric.kithinji@student.moringaschool.com <br>
 <br>
 
 **License**<br>
