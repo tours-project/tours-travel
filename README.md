@@ -1,20 +1,21 @@
-# tours-travel
+# tours-travel <br>
+**DESCRIPTION** <br>
 This is a group project where we are working on a project about a tour company where you can book online.
 {TOURS AND TRAVELS AGENCY}
 {Landing Page}, {September 2023}
 By {MIKE-NJUGE,HILLARY-ONYUNA,DEBORAH-TIPIYION,ERIC-KITHINJI}
 Description
-This is the landing page for tours and travel. The project is to test our understanding and skill in HTML and CSS up to now. We are to design a page of a tour agency  that deals with tour and travels.
+This is the landing page for tours and travel. The project is to test our understanding and skill in HTML and CSS up to now. We are to design a page of a tour agency  that deals with tour and travels.<br>
 
 
-Pre-requisites
+**Pre-requisites**<br>
 Linux/Windows/MacOS
 At least 2GB RAM
 At least 3GB ROM
 Visual Studio Code
 GitHub Account
-Browser
-Setup/Installation Requirements
+Browser <br>
+**Setup/Installation Requirements** <br>
 
 This is how to set up and run this code on your computer:
 
@@ -34,26 +35,28 @@ remote: Compressing objects: 100% (8/8), done.
 
 remove: Total 10 (delta 1), reused 10 (delta 1)
 
-Unpacking objects: 100% (10/10), done.
+Unpacking objects: 100% (10/10), done.<br>
 
-Enjoy!
-NB: The repository link is:https://github.com/tours-project/tours-travel.git
+**Enjoy!** <br>
+NB: The repository link is:https://github.com/tours-project/tours-travel.git<br>
 
-Known Bugs
-This current version has no know bugs at the moment
+**Known Bugs**<br>
+This current version has no know bugs at the moment<br>
 
-Technologies Used
+**Technologies Used**<br>
 HTML5
 CSS3
 Javascript
+<br>
 
-Support and contact details
+**Support and contact details**  <br>
 hillary.onyuna@student.moringaschool.com
 michael.njung'e@student.moringaschool.com
 deborah.richard@student.moringaschool.com
 eric.kithinji@student.moringaschool.com
+<br>
 
-License
+**License**<br>
 This software is published under the MIT License.
 
 Permission is hereby granted, free of charge, to any person obtaining
@@ -74,5 +77,5 @@ NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
 LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
 OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
 WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-Copyright (c) {2023} {MIKE-NJUGE,HILLARY-ONYUNA,DEBORAH-TIPIYION,ERIC-KITHINJI}
+**Copyright (c) {2023} {MIKE-NJUGE,HILLARY-ONYUNA,DEBORAH-TIPIYION,ERIC-KITHINJI}**
 
