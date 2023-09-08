@@ -1,7 +1,7 @@
 # TOURS AND TRAVEL <br>
 
 **{Landing Page}, {September 2023}<br>**
-**By {MIKE-NJUnGE,HILLARY-ONYUNA,DEBORAH-TIPIYION,ERIC-KITHINJI**}<br>
+**By {MIKE-NJUNGE,HILLARY-ONYUNA,DEBORAH-TIPIYION,ERIC-KITHINJI**}<br>
 **Description**<br>
 This is the landing page for tours and travel.This is a group project where we are working on a project about a tour company where you can book online for tours. The project is to test our understanding and skill in HTML and CSS up to now. We are to design a page of a tour agency  that deals with tour and travels.<br>
 here is the live link to [tours](https://tours-project.github.io/tours-travel/)
