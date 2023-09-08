@@ -1,10 +1,10 @@
 # TOURS AND TRAVEL <br>
 
 **{Landing Page}, {September 2023}<br>**
-**By {MIKE-NJUGE,HILLARY-ONYUNA,DEBORAH-TIPIYION,ERIC-KITHINJI**}<br>
+**By {MIKE-NJUnGE,HILLARY-ONYUNA,DEBORAH-TIPIYION,ERIC-KITHINJI**}<br>
 **Description**<br>
 This is the landing page for tours and travel.This is a group project where we are working on a project about a tour company where you can book online for tours. The project is to test our understanding and skill in HTML and CSS up to now. We are to design a page of a tour agency  that deals with tour and travels.<br>
-
+here is the live link to [tours](https://tours-project.github.io/tours-travel/)
 
 **Pre-requisites**<br>
 1.Linux/Windows/MacOS
@@ -45,7 +45,7 @@ This current version has no know bugs at the moment<br>
 
 **Support and contact details**  <br>
 1.hillary.onyuna@student.moringaschool.com <br>
-2.michael.njung'e@student.moringaschool.com <br>
+2.michael.njunge@student.moringaschool.com <br>
 3.deborah.richard@student.moringaschool.com<br>
 4.eric.kithinji@student.moringaschool.com <br>
 <br>
