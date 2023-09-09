@@ -32,7 +32,7 @@ This is how to set up and run this code on your computer:<br>
 -Unpacking objects: 100% (10/10), done.<br>
 
 **Enjoy!** <br>
-NB: The repository link is:https://github.com/tours-project/tours-travel.git<br>
+NB: The repository link is:https://tours-project.github.io/tours-travel/br>
 
 **Known Bugs**<br>
 This current version has no know bugs at the moment<br>
